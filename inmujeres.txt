@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<meta name="google-site-verification" content="A62jiV84kKsCaQqvuSr26B5QcIYEX8HmPe-scPlUL9Y" />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.inmujeres.cdmx.gob.mx/xmlrpc.php" />
+<title>Instituto de las Mujeres de la Ciudad de México</title>
+<link rel="alternate" type="application/rss+xml" title="Instituto de las Mujeres de la Ciudad de México &raquo; Feed" href="http://www.inmujeres.cdmx.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Instituto de las Mujeres de la Ciudad de México &raquo; RSS de los comentarios" href="http://www.inmujeres.cdmx.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.inmujeres.cdmx.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='otw_sbm.css-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/sidebar-manager-light/css/otw_sbm.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/siteorigin-panels/css/front.css?ver=2.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='document-gallery-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/document-gallery/assets/css/style.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-four-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-carousel-basic-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/so-widgets-bundle/widgets/so-post-carousel-widget/css/style.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-slider-base-65caf429a1bb-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/siteorigin-widgets/sow-slider-base-65caf429a1bb.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-slider-slider-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/so-widgets-bundle/widgets/so-slider-widget/css/slider.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-slider-base-abf3e628296a-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/siteorigin-widgets/sow-slider-base-abf3e628296a.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='accelerate_style-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/themes/InMujeresCDMX_2015/style.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='accelerate_googlefonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C100%7CRoboto+Slab%3A700%2C400&#038;ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='accelerate-fontawesome-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/themes/InMujeresCDMX_2015/fontawesome/css/font-awesome.css?ver=4.3.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/so-widgets-bundle/js/jquery.touchSwipe.min.js?ver=1.6.6'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/so-widgets-bundle/widgets/so-slider-widget/js/jquery.cycle.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/so-widgets-bundle/widgets/so-slider-widget/js/slider.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/themes/InMujeresCDMX_2015/js/accelerate-custom.js?ver=4.5.3'></script>
+<link rel='https://api.w.org/' href='http://www.inmujeres.cdmx.gob.mx/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.inmujeres.cdmx.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.inmujeres.cdmx.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="http://www.inmujeres.cdmx.gob.mx/" />
+<link rel='shortlink' href='http://www.inmujeres.cdmx.gob.mx/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.inmujeres.cdmx.gob.mx/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.inmujeres.cdmx.gob.mx%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.inmujeres.cdmx.gob.mx/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.inmujeres.cdmx.gob.mx%2F&#038;format=xml" />
+<link rel="shortcut icon" href="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/12/favicon2.png" type="image/x-icon" />		<style type="text/css"> .accelerate-button,blockquote,button,input[type=button],input[type=reset],input[type=submit]{background-color:#ff149b}a{color:#ff149b}#page{border-top:3px solid #ff149b}#site-title a:hover{color:#ff149b}#search-form span,#featured-slider .slider-read-more-button,.slider-title-head .entry-title a{background-color:#ff149b}a.slide-prev,a.slide-next,.slider-title-head .entry-title a{background-color:#ff149b}#controllers a.active,#controllers a:hover{background-color:#ff149b;color:#ff149b}.format-link .entry-content a{background-color:#ff149b}#secondary .widget_featured_single_post h3.widget-title a:hover,#content .comments-area a.comment-permalink:hover,#content .comments-area article header cite a:hover,.comments-area .comment-author-link a:hover{color:#ff149b}.comments-area .comment-author-link span{background-color:#ff149b}#wp-calendar #today,.comment .comment-reply-link:hover,.nav-next a,.nav-previous a{color:#ff149b}.widget-title span{border-bottom:2px solid #ff149b}#secondary h3 span:before,.footer-widgets-area h3 span:before{color:#ff149b}#secondary .accelerate_tagcloud_widget a:hover,.footer-widgets-area .accelerate_tagcloud_widget a:hover{background-color:#ff149b}.footer-widgets-area a:hover{color:#ff149b}.footer-socket-wrapper{border-top:3px solid #ff149b}.footer-socket-wrapper .copyright a:hover{color:#ff149b}a#scroll-up{background-color:#ff149b}.entry-meta .byline i,.entry-meta .cat-links i,.entry-meta a,.post .entry-title a:hover{color:#ff149b}.entry-meta .post-format i{background-color:#ff149b}.entry-meta .comments-link a:hover,.entry-meta .edit-link a:hover,.entry-meta .posted-on a:hover,.entry-meta .tag-links a:hover{color:#ff149b}.more-link span</style>
+		<style type="text/css" media="all" id="siteorigin-panels-grids-wp_head">/* Layout 15 */ #pgc-15-0-0 , #pgc-15-0-1 , #pgc-15-0-2 , #pgc-15-0-3 , #pgc-15-1-0 , #pgc-15-1-1 , #pgc-15-1-2 , #pgc-15-1-3 , #pgc-15-2-0 , #pgc-15-2-1 , #pgc-15-2-2 , #pgc-15-2-3 { width:25% } #pg-15-0 , #pl-15 .panel-grid-cell .so-panel:last-child { margin-bottom:0px } #pg-15-0 .panel-grid-cell , #pg-15-1 .panel-grid-cell , #pg-15-2 .panel-grid-cell { float:left } #pg-15-1 , #pg-15-2 , #pl-15 .panel-grid-cell .so-panel { margin-bottom:30px } #pg-15-3 .panel-grid-cell { float:none } #pg-15-0 , #pg-15-1 , #pg-15-2 , #pg-15-3 { margin-left:-7.5px;margin-right:-7.5px } #pg-15-0 .panel-grid-cell , #pg-15-1 .panel-grid-cell , #pg-15-2 .panel-grid-cell , #pg-15-3 .panel-grid-cell { padding-left:7.5px;padding-right:7.5px } @media (max-width:780px){ #pg-15-0 .panel-grid-cell , #pg-15-1 .panel-grid-cell , #pg-15-2 .panel-grid-cell , #pg-15-3 .panel-grid-cell { float:none;width:auto } #pgc-15-0-0 , #pgc-15-0-1 , #pgc-15-0-2 , #pgc-15-1-0 , #pgc-15-1-1 , #pgc-15-1-2 , #pgc-15-2-0 , #pgc-15-2-1 , #pgc-15-2-2 { margin-bottom:30px } #pl-15 .panel-grid { margin-left:0;margin-right:0 } #pl-15 .panel-grid-cell { padding:0 }  } </style>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84812636-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body class="home page page-id-15 page-template-default siteorigin-panels siteorigin-panels-home no-sidebar-full-width wide">
+
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header clearfix">
+
+		<div id="header-text-nav-container" class="clearfix">
+
+			
+			<div class="inner-wrap">
+
+				<div id="header-text-nav-wrap" class="clearfix">
+					<div id="header-left-section">
+													<div id="header-logo-image">
+								<a href="http://www.inmujeres.cdmx.gob.mx/" title="Instituto de las Mujeres de la Ciudad de México" rel="home"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/02/LOGOIMcdmx2016-01.png" alt="Instituto de las Mujeres de la Ciudad de México"></a>
+							</div><!-- #header-logo-image -->
+											</div><!-- #header-left-section -->
+					<div id="header-right-section">
+												<div id="header-right-sidebar" class="clearfix">
+						<aside id="black-studio-tinymce-5" class="widget widget_black_studio_tinymce"><div class="textwidget"><p style="text-align: right;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10px; color: #333333;"><a style="color: #333333;" href="http://www.inmujeres.cdmx.gob.mx">Inicio</a> | <a style="color: #333333;" href="http://www.cdmx.gob.mx/dependencias/" target="_blank">Dependencias CDMX</a> | <a style="color: #333333;" href="http://www.cdmx.gob.mx" target="_blank">Portal Ciudadano CDMX</a> | <a style="color: #333333;" href="http://www.inmujeres.cdmx.gob.mx/conoce-tu-instituto/directorio">Directorio</a> | <a style="color: #333333;" href="http://www.inmujeres.cdmx.gob.mx/conoce-tu-instituto/contacto/">Contacto</a></span></p>
+</div></aside><aside id="search-3" class="widget widget_search"><form action="http://www.inmujeres.cdmx.gob.mx/"id="search-form" class="searchform clearfix" method="get">
+	<input type="text" placeholder="Buscar" class="s field" name="s">
+	<input type="submit" value="Buscar" id="search-submit" name="submit" class="submit">
+</form><!-- .searchform --></aside>						</div>
+									    	</div><!-- #header-right-section -->
+
+			   </div><!-- #header-text-nav-wrap -->
+
+			</div><!-- .inner-wrap -->
+
+			
+			<nav id="site-navigation" class="main-navigation inner-wrap clearfix" role="navigation">
+				<h3 class="menu-toggle">Menu</h3>
+				<div class="menu-principal-cabezal-container"><ul id="menu-principal-cabezal" class="menu"><li id="menu-item-517" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15 current_page_item menu-item-517"><a href="http://www.inmujeres.cdmx.gob.mx/"><i class="fa-home fa"></i><span class="fontawesome-text"> Inicio</span></a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tu-instituto/"><i class="fa-caret-down fa"></i><span class="fontawesome-text"> Conoce tu instituto</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1759"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tu-instituto/acerca-de-inmujeres-df/">Acerca de Inmujeres DF</a></li>
+	<li id="menu-item-2086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2086"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tu-instituto/vision-del-instituto/">Visión del Instituto</a></li>
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tu-instituto/organizacion/">Organización</a></li>
+	<li id="menu-item-2913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2913"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tu-instituto/directorio/">Directorio</a></li>
+	<li id="menu-item-1223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1223"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tu-instituto/contacto/">Contacto</a></li>
+</ul>
+</li>
+<li id="menu-item-574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-574"><a href="http://www.inmujeres.cdmx.gob.mx/asesorias/"><i class="fa-caret-down fa"></i><span class="fontawesome-text"> Asesorías</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2926"><a href="http://www.inmujeres.cdmx.gob.mx/asesorias/atencion-inicial/">Atención Inicial</a></li>
+	<li id="menu-item-579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579"><a href="http://www.inmujeres.cdmx.gob.mx/asesorias/atencion-de-mujeres-victimas-de-violencia-sexual-en-los-transportes-publicos/">Atención de Mujeres víctimas de violencia sexual en los transportes públicos</a></li>
+	<li id="menu-item-1221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1221"><a href="http://www.inmujeres.cdmx.gob.mx/asesorias/mastografias-paicma-df/">Mastografías (Programa de Atención Integral al Cáncer de Mama)</a></li>
+	<li id="menu-item-1222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1222"><a href="http://www.inmujeres.cdmx.gob.mx/asesorias/en-donde-te-atendemos/">En dónde te atendemos</a></li>
+	<li id="menu-item-1219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1219"><a href="http://www.inmujeres.cdmx.gob.mx/asesorias/temas-de-interes/">Temas de interés</a></li>
+</ul>
+</li>
+<li id="menu-item-1191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1191"><a href="http://www.inmujeres.cdmx.gob.mx/capacitacion/"><i class="fa-caret-down fa"></i><span class="fontawesome-text"> Capacitación</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1192"><a href="http://www.inmujeres.cdmx.gob.mx/capacitacion/personas-servidoras-publicas/">Personas servidoras públicas</a></li>
+	<li id="menu-item-1409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1409"><a href="http://www.inmujeres.cdmx.gob.mx/capacitacion/mujeres/">Mujeres</a></li>
+</ul>
+</li>
+<li id="menu-item-1402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1402"><a href="http://www.inmujeres.cdmx.gob.mx/interrupcion-legal-del-embarazo/"><i class="fa-caret-down fa"></i><span class="fontawesome-text"> Interrupción Legal del Embarazo</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425"><a href="http://www.inmujeres.cdmx.gob.mx/interrupcion-legal-del-embarazo/que-dice-la-ley/">Qué dice la Ley</a></li>
+	<li id="menu-item-1432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1432"><a href="http://www.inmujeres.cdmx.gob.mx/interrupcion-legal-del-embarazo/acerca-de-la-controversia-en-la-scjn/">Acerca de la controversia en la SCJN</a></li>
+	<li id="menu-item-1431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1431"><a href="http://www.inmujeres.cdmx.gob.mx/interrupcion-legal-del-embarazo/documentos-de-interes/">Documentos de Interés</a></li>
+	<li id="menu-item-1404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1404"><a href="http://www.inmujeres.cdmx.gob.mx/interrupcion-legal-del-embarazo/hospitales-para-la-realizacion-de-la-interrupcion-legal-del-embarazo/">Hospitales para la realización de la Interrupción Legal del Embarazo</a></li>
+	<li id="menu-item-1403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403"><a href="http://www.inmujeres.cdmx.gob.mx/interrupcion-legal-del-embarazo/estadisticas-sobre-ile/">Estadísticas sobre ILE</a></li>
+</ul>
+</li>
+<li id="menu-item-1436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1436"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tus-derechos/"><i class="fa-caret-down fa"></i><span class="fontawesome-text"> Conoce tus derechos</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1438"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tus-derechos/por-una-vida-libre-de-violencia/">Por una vida libre de violencia</a></li>
+	<li id="menu-item-1449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1449"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tus-derechos/salud-para-las-mujeres/">Salud para las mujeres</a></li>
+	<li id="menu-item-1491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1491"><a href="http://www.inmujeres.cdmx.gob.mx/biblioteca-digital/genero-y-derechos-humanos/derechos-humanos-de-las-mujeres/">Derechos Humanos de las Mujeres</a></li>
+	<li id="menu-item-1492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1492"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tus-derechos/derechos-de-las-ninas-y-las-adolescentes/">Derechos de las niñas y las adolescentes</a></li>
+</ul>
+</li>
+<li id="menu-item-2085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2085"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/"><i class="fa-caret-down fa"></i><span class="fontawesome-text"> Sala de prensa</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-3545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3545"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-3548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3548"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/discursos/">Discursos</a></li>
+	<li id="menu-item-1226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1226"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/ponencias/">Ponencias</a></li>
+	<li id="menu-item-1227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1227"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/campanas/">Campañas</a></li>
+	<li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/noticias/">Noticias</a></li>
+	<li id="menu-item-1228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1228"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/convocatorias/">Convocatorias</a></li>
+	<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/numeralia/">Numeralia</a></li>
+</ul>
+</li>
+</ul></div>			</nav>
+		</div><!-- #header-text-nav-container -->
+
+		
+				<section id="featured-slider">
+			<div class="slider-cycle inner-wrap">
+				<div class="slider-rotate">
+										<div class="slides displayblock">
+							<figure>
+								<img alt="Consulta las bases, aquí." src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/09/carrusel_omecihuatl-01.png">
+							</figure>
+							<div class="entry-container">
+																										<div class="slider-title-head"><h3 class="entry-title"><a href="http://www.inmujeres.cdmx.gob.mx/medalla-omecihuatl" title="Consulta las bases, aquí.">Consulta las bases, aquí.</a></h3></div>
+																																	</div>
+						</div>
+												<div class="slides displaynone">
+							<figure>
+								<img alt="INGRESA AQUÍ" src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/08/carrusel_estrategia30_100.jpg">
+							</figure>
+							<div class="entry-container">
+																										<div class="slider-title-head"><h3 class="entry-title"><a href="http://www.inmujeres.cdmx.gob.mx/estrategia-30-100-contra-violencia-hacia-las-mujeres/" title="INGRESA AQUÍ">INGRESA AQUÍ</a></h3></div>
+																																	</div>
+						</div>
+												<div class="slides displaynone">
+							<figure>
+								<img alt="Vive Segura." src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/09/twitter2.png">
+							</figure>
+							<div class="entry-container">
+																										<div class="slider-title-head"><h3 class="entry-title"><a href="" title="Vive Segura.">Vive Segura.</a></h3></div>
+																																	</div>
+						</div>
+												<div class="slides displaynone">
+							<figure>
+								<img alt="" src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/09/carrusel_ile.jpg">
+							</figure>
+							<div class="entry-container">
+															</div>
+						</div>
+						   			</div>
+   			<a class="slide-next" href="#"><i class="fa fa-angle-right"></i></a>
+            <a class="slide-prev" href="#"><i class="fa fa-angle-left"></i></a>
+			</div>
+
+			<nav id="controllers" class="clearfix"></nav>
+		</section>
+
+		
+	</header>
+			<div id="main" class="clearfix">
+		<div class="inner-wrap clearfix">	<div id="primary">
+<ul id="breadcrumbs" class="breadcrumbs"></ul>			<div id="content" class="clearfix">
+	                
+				
+<article id="post-15" class="post-15 page type-page status-publish hentry">
+	
+	<header class="entry-header">
+		<h1 class="entry-title">
+			Inicio		</h1>
+	</header>
+	
+	<div class="entry-content clearfix">
+		<div id="pl-15"><div class="panel-grid" id="pg-15-0" ><div class="panel-grid-cell" id="pgc-15-0-0" ><div class="so-panel widget widget_sow-image panel-first-child panel-last-child" id="panel-15-0-0-0" data-index="0"><div class="so-widget-sow-image so-widget-sow-image-base">
+<a href="http://www.inmujeres.cdmx.gob.mx/asesorias/" >	<img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/04/servicios2.jpg" width="400" height="390" title="Servicios"  class="so-widget-image" style="max-width:100%; height:auto" />
+</a></div></div></div><div class="panel-grid-cell" id="pgc-15-0-1" ><div class="so-panel widget widget_sow-image panel-first-child panel-last-child" id="panel-15-0-1-0" data-index="1"><div class="so-widget-sow-image so-widget-sow-image-base">
+<a href="http://www.inmujeres.cdmx.gob.mx/capacitacion/" >	<img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/04/servidorespublicos2.jpg" width="400" height="390" title="Trabajo con servidoras públicas"  class="so-widget-image" style="max-width:100%; height:auto" />
+</a></div></div></div><div class="panel-grid-cell" id="pgc-15-0-2" ><div class="so-panel widget widget_sow-image panel-first-child panel-last-child" id="panel-15-0-2-0" data-index="2"><div class="so-widget-sow-image so-widget-sow-image-base">
+<a href="http://www.inmujeres.cdmx.gob.mx/conoce-tus-derechos/por-una-vida-libre-de-violencia/prevencion-de-la-violencia/viajemos-seguras/" >	<img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/04/erradicacion2.jpg" width="400" height="390" title="Erradicar la violencia contra mujeres"  class="so-widget-image" style="max-width:100%; height:auto" />
+</a></div></div></div><div class="panel-grid-cell" id="pgc-15-0-3" ><div class="so-panel widget widget_sow-image panel-first-child panel-last-child" id="panel-15-0-3-0" data-index="3"><div class="so-widget-sow-image so-widget-sow-image-base">
+<a href="http://www.inmujeres.cdmx.gob.mx/conoce-tus-derechos/por-una-vida-libre-de-violencia/prevencion-de-la-violencia/ciudades-libres-de-violencia/" >	<img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/04/espaciospublicos.jpg" width="400" height="390" title="Erradicar la violencia contra mujeres"  class="so-widget-image" style="max-width:100%; height:auto" />
+</a></div></div></div></div><div class="panel-grid" id="pg-15-1" ><div class="panel-grid-cell" id="pgc-15-1-0" ><div class="so-panel widget widget_sow-image panel-first-child panel-last-child" id="panel-15-1-0-0" data-index="4"><div class="so-widget-sow-image so-widget-sow-image-base">
+<a href="http://www.inmujeres.cdmx.gob.mx/interrupcion-legal-del-embarazo/" >	<img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/06/ILE.png" width="287" height="50" alt="Interrupción Legal del Embarazo"  class="so-widget-image" style="max-width:100%; height:auto" />
+</a></div></div></div><div class="panel-grid-cell" id="pgc-15-1-1" ><div class="so-panel widget widget_sow-image panel-first-child panel-last-child" id="panel-15-1-1-0" data-index="5"><div class="so-widget-sow-image so-widget-sow-image-base">
+<a href="http://www.inmujeres.cdmx.gob.mx/politicas-de-igualdad-de-genero/" >	<img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/06/POLITICAS.png" width="287" height="50" alt="Políticas de Igualdad de Género"  class="so-widget-image" style="max-width:100%; height:auto" />
+</a></div></div></div><div class="panel-grid-cell" id="pgc-15-1-2" ><div class="so-panel widget widget_sow-image panel-first-child panel-last-child" id="panel-15-1-2-0" data-index="6"><div class="so-widget-sow-image so-widget-sow-image-base">
+<a href="http://www.inmujeres.cdmx.gob.mx/conoce-tus-derechos/por-una-vida-libre-de-violencia/" >	<img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/06/VIDALIBRE.png" width="287" height="50" alt="Por una vida libre de violencia"  class="so-widget-image" style="max-width:100%; height:auto" />
+</a></div></div></div><div class="panel-grid-cell" id="pgc-15-1-3" ><div class="so-panel widget widget_sow-image panel-first-child panel-last-child" id="panel-15-1-3-0" data-index="7"><div class="so-widget-sow-image so-widget-sow-image-base">
+<a href="http://www.transparencia.df.gob.mx/wb/vut/instituto_de_las_mujeres_inmujeres" target="_blank">	<img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/06/transparencia.png" width="287" height="50" alt="Transparencia InmujeresCDMX"  class="so-widget-image" style="max-width:100%; height:auto" />
+</a></div></div></div></div><div class="panel-grid" id="pg-15-2" ><div class="panel-grid-cell" id="pgc-15-2-0" ><div class="so-panel widget widget_shortcodes-ultimate shortcodes-ultimate panel-first-child" id="panel-15-2-0-0" data-index="8"><div class="textwidget"><div id="su_slider_57eb07b17335d" class="su-slider su-slider-centered su-slider-pages-yes su-slider-responsive-yes" style="width:100%" data-autoplay="3000" data-speed="600" data-mousewheel="true"><div class="su-slider-slides"><div class="su-slider-slide"><a href="https://youtu.be/6EvA1xoVU_w" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/03/VIDEO_BANNER_FILPM-250x200.png" alt="VIDEO_BANNER_FILPM" /></a></div><div class="su-slider-slide"><a href="https://youtu.be/WJ-gKeWCeG0" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/02/slide_video_politicas-250x200.jpg" alt="slide_video_politicas" /></a></div><div class="su-slider-slide"><a href="https://youtu.be/WdhL4J1w30w" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/02/slide_video_omecihuatl-250x200.jpg" alt="slide_video_omecihuatl" /></a></div><div class="su-slider-slide"><a href="https://youtu.be/nLKlhbT_bMM" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/02/slide_video_CDMXSEGURA-250x200.jpg" alt="slide_video_CDMXSEGURA" /></a></div></div><div class="su-slider-nav"><div class="su-slider-direction"><span class="su-slider-prev"></span><span class="su-slider-next"></span></div><div class="su-slider-pagination"></div></div></div></div></div><div class="so-panel widget widget_shortcodes-ultimate shortcodes-ultimate panel-last-child" id="panel-15-2-0-1" data-index="9"><div class="textwidget"><div id="su_slider_57eb07b174bfe" class="su-slider su-slider-centered su-slider-pages-yes su-slider-responsive-no" style="width:250px;height:250px" data-autoplay="3000" data-speed="600" data-mousewheel="true"><div class="su-slider-slides"><div class="su-slider-slide"><a href="http://www.infodf.org.mx/index.php/concurso-de-ensayo.html" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/04/BANNER_TRANSPARENCIA-250x250.png" alt="BANNER_TRANSPARENCIA" /></a></div><div class="su-slider-slide"><a href="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/09/cartilla-derechos-victimas-violencia-sexual-infantil.pdf" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/09/cartilla-250x250.png" alt="cartilla" /></a></div></div><div class="su-slider-nav"><div class="su-slider-direction"><span class="su-slider-prev"></span><span class="su-slider-next"></span></div><div class="su-slider-pagination"></div></div></div></div></div></div><div class="panel-grid-cell" id="pgc-15-2-1" ><div class="so-panel widget widget_text panel-first-child" id="panel-15-2-1-0" data-index="10">			<div class="textwidget"><script type="text/javascript">jQuery(document).ready(function() {
+		   		jQuery(".smooth_slider_fouc .smooth_slider").show();
+			});jQuery(document).ready(function() {
+		jQuery("#smooth_slider_2").smooth({ 
+			fx: "scrollHorz",
+			speed:"600",
+			timeout: 6000,pager: "#smooth_slider_2_nav", pagerAnchorBuilder: function(idx, slide) { 
+					return '<a class="sldr'+(idx+1)+' smooth_slider_nnav" href="#">'+(idx+1)+'</a>'; 
+				},pause: 1
+			,slideExpr: "div.smooth_slideri"
+		});jQuery("#smooth_slider_2").smoothSlider({
+					sliderWidth		:400,
+					sliderHeight		:250,
+					navArr			:0,
+					img_align		:"none"
+			});});</script><noscript><p><strong></strong></p></noscript><div id="smooth_slider_2" class="smooth_slider" style="max-width:400px;height:250px;min-height:250px;background-color:#ffffff;border:0px solid #dddddd;"><div class="sldr_title" style="font-family:Arial,Helvetica,sans-serif, Arial, Helvetica, sans-serif;font-size:24px;font-weight:bold;font-style:normal;color:#ba007c;">Boletines</div> <div class="smooth_sliderb"><div class="smooth_slideri" style="max-width:400px;margin:0px 0px 0px 0px;">
+			<!-- smooth_slideri --><h2 style="clear:none;line-height:19px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:normal;font-style:normal;color:#424242;margin:1em 0 5px 0;"><a style="color:#424242;font-size:16px;font-weight:normal;font-style:normal;" href="http://www.inmujeres.cdmx.gob.mx/foro-sobre-interrupcion-legal-del-embarazo/">Realiza Inmujeres CDMX foro sobre Interrupción Legal del Embarazo</a></h2><span style="font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:normal;font-style:normal;color:#333333;"> Boletín ...</span>
+				<p class="smooth_more"><a href="http://www.inmujeres.cdmx.gob.mx/foro-sobre-interrupcion-legal-del-embarazo/" style="color:#ba007c;font-family:Arial,Helvetica,sans-serif;font-size:12px;margin-left: 10px;">Leer más...</a></p>
+			
+				<!-- /smooth_slideri -->
+			</div><div class="smooth_slideri" style="max-width:400px;margin:0px 0px 0px 0px;">
+			<!-- smooth_slideri --><h2 style="clear:none;line-height:19px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:normal;font-style:normal;color:#424242;margin:1em 0 5px 0;"><a style="color:#424242;font-size:16px;font-weight:normal;font-style:normal;" href="http://www.inmujeres.cdmx.gob.mx/implementaran-vive-segura-en-tu-delegacion/">Implementarán Inmujeres CDMX y las delegaciones Cuauhtémoc e Iztacalco programa “Vive Segura en tu Delegación”</a></h2><span style="font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:normal;font-style:normal;color:#333333;"> Boletín ...</span>
+				<p class="smooth_more"><a href="http://www.inmujeres.cdmx.gob.mx/implementaran-vive-segura-en-tu-delegacion/" style="color:#ba007c;font-family:Arial,Helvetica,sans-serif;font-size:12px;margin-left: 10px;">Leer más...</a></p>
+			
+				<!-- /smooth_slideri -->
+			</div><div class="smooth_slideri" style="max-width:400px;margin:0px 0px 0px 0px;">
+			<!-- smooth_slideri --><h2 style="clear:none;line-height:19px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:normal;font-style:normal;color:#424242;margin:1em 0 5px 0;"><a style="color:#424242;font-size:16px;font-weight:normal;font-style:normal;" href="http://www.inmujeres.cdmx.gob.mx/promovemos-imagen-de-las-mujeres-libre-de-estereotipos/">Promueve Inmujeres CDMX una imagen de las mujeres libre de estereotipos de género</a></h2><span style="font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:normal;font-style:normal;color:#333333;"> Boletín ...</span>
+				<p class="smooth_more"><a href="http://www.inmujeres.cdmx.gob.mx/promovemos-imagen-de-las-mujeres-libre-de-estereotipos/" style="color:#ba007c;font-family:Arial,Helvetica,sans-serif;font-size:12px;margin-left: 10px;">Leer más...</a></p>
+			
+				<!-- /smooth_slideri -->
+			</div><div class="smooth_slideri" style="max-width:400px;margin:0px 0px 0px 0px;">
+			<!-- smooth_slideri --><h2 style="clear:none;line-height:19px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:normal;font-style:normal;color:#424242;margin:1em 0 5px 0;"><a style="color:#424242;font-size:16px;font-weight:normal;font-style:normal;" href="http://www.inmujeres.cdmx.gob.mx/dia-internacional-de-la-ciudadania-de-las-mujeres/">Conmemora Inmujeres CDMX Día Internacional de la Ciudadanía de las Mujeres</a></h2><span style="font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:normal;font-style:normal;color:#333333;"> Boletín ...</span>
+				<p class="smooth_more"><a href="http://www.inmujeres.cdmx.gob.mx/dia-internacional-de-la-ciudadania-de-las-mujeres/" style="color:#ba007c;font-family:Arial,Helvetica,sans-serif;font-size:12px;margin-left: 10px;">Leer más...</a></p>
+			
+				<!-- /smooth_slideri -->
+			</div><div class="smooth_slideri" style="max-width:400px;margin:0px 0px 0px 0px;">
+			<!-- smooth_slideri --><h2 style="clear:none;line-height:19px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:normal;font-style:normal;color:#424242;margin:1em 0 5px 0;"><a style="color:#424242;font-size:16px;font-weight:normal;font-style:normal;" href="http://www.inmujeres.cdmx.gob.mx/segunda-etapa-entrega-del-silbato-vive-segura/">Inicia segunda etapa de entrega del “Silbato Vive Segura” en Sistema de Transporte Colectivo</a></h2><span style="font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:normal;font-style:normal;color:#333333;"> Boletín ...</span>
+				<p class="smooth_more"><a href="http://www.inmujeres.cdmx.gob.mx/segunda-etapa-entrega-del-silbato-vive-segura/" style="color:#ba007c;font-family:Arial,Helvetica,sans-serif;font-size:12px;margin-left: 10px;">Leer más...</a></p>
+			
+				<!-- /smooth_slideri -->
+			</div></div><div id="smooth_slider_2_nav" class="smooth_nav"></div><div class="sldr_clearlt"></div><div class="sldr_clearrt"></div>
+</div><script type="text/javascript">jQuery("html").addClass("smooth_slider_fouc");jQuery(".smooth_slider_fouc .smooth_slider").hide();</script></div>
+		</div><div class="so-panel widget widget_text panel-last-child" id="panel-15-2-1-1" data-index="11">			<div class="textwidget"><td style="text-align: left;"><span style="color: #ba007c;"><span style="font-size: 14px;"><i class="fa fa-chevron-circle-right"></i><a style="color: #4d4c4c; text-align: left;" href="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/03/Pronunciamiento-Conjunto-INMUJERES-COPRED.pdf" target="_blank"">COPRED e Inmujeres CDMX manifiestan su preocupación por la estigmatización de mujeres por su apariencia. </a></span></span></td><br>
+<br>
+</tr>
+</tr>
+<td style="text-align: left;"><span style="color: #ba007c;"><span style="font-size: 14px;"><i class="fa fa-chevron-circle-right"></i><a style="color: #4d4c4c; text-align: left;" href="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/10/1735_Gaceta_GDF_Memorandum_ONU.pdf" target="_blank"">Memorándum de entendimiento entre el Gobierno DF y Entidad de Naciones Unidas para la Igualdad de Género y Empoderamiento de las Mujeres. </a></span></span></td><br>
+<br>
+</tr>
+</tr>
+<td style="text-align: left;"><span style="color: #ba007c;"><span style="font-size: 14px;"><i class="fa fa-chevron-circle-right"></i><a style="color: #4d4c4c; text-align: left;" href="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/12/AlertaGeneroEDOMEXVotoRazonado.pdf" target="_blank">Voto Razonado de la Directora General del Inmujeres DF. Declaratoria de Alerta de Violencia de Género...</a></span></span></td><br>
+</tr>
+<tr>
+</div>
+		</div></div><div class="panel-grid-cell" id="pgc-15-2-2" ><div class="so-panel widget widget_text panel-first-child" id="panel-15-2-2-0" data-index="12">			<div class="textwidget"><iframe width="270" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/172104081&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;"></iframe>
+<td style="font-size: 12px;"><i class="fa fa-volume-up"></i><a style="color: #4d4c4c;" href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/eventos/dia-para-eliminar-la-violencia-contra-las-mujeres/vivir-sin-violencia-es-tu-derecho/">      Vivir sin violencia es tu derecho </a></strong></span></td><br>
+</tr>
+</div>
+		</div><div class="so-panel widget widget_sow-image" id="panel-15-2-2-1" data-index="13"><div class="so-widget-sow-image so-widget-sow-image-base">
+<a href="http://www.locatel.df.gob.mx/mujeres/" >	<img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/07/lineamujeresboton2.png" width="315" height="99"  class="so-widget-image" style="max-width:100%; height:auto" />
+</a></div></div><div class="so-panel widget widget_shortcodes-ultimate shortcodes-ultimate panel-last-child" id="panel-15-2-2-2" data-index="14"><div class="textwidget"><div id="su_slider_57eb07b17bbf9" class="su-slider su-slider-centered su-slider-pages-yes su-slider-responsive-no" style="width:240px;height:200px" data-autoplay="3000" data-speed="600" data-mousewheel="true"><div class="su-slider-slides"><div class="su-slider-slide"><a href="http://www.inmujeres.cdmx.gob.mx/conoce-tus-derechos/salud-para-las-mujeres/paicma-df/jornadas-mastografia/" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/04/masto02-01-240x200.jpg" alt="masto02-01" /></a></div><div class="su-slider-slide"><a href="http://www.inmujeres.cdmx.gob.mx/cedoc/" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/03/CEDOC2-02-240x200.png" alt="CEDOC2-02" /></a></div><div class="su-slider-slide"><a href="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/03/ProntuarioMUA.pdf" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/10/Prontuario-240x200.jpg" alt="Prontuario" /></a></div></div><div class="su-slider-nav"><div class="su-slider-direction"><span class="su-slider-prev"></span><span class="su-slider-next"></span></div><div class="su-slider-pagination"></div></div></div></div></div></div><div class="panel-grid-cell" id="pgc-15-2-3" ><div class="so-panel widget widget_text panel-first-child" id="panel-15-2-3-0" data-index="15"><div style="height: 200;" class="panel-widget-style" >			<div class="textwidget"><a class="twitter-timeline" data-dnt="true" href="https://twitter.com/InmujeresCDMX" data-widget-id="568861821512085505">Tweets por el @InmujeresCDMX.</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div></div><div class="so-panel widget widget_text panel-last-child" id="panel-15-2-3-1" data-index="16">			<div class="textwidget"><td><a title="Programas Federales" href="http://www.inmujeres.cdmx.gob.mx/programas-federales/"><img class="alignleft size-full wp-image-2370" src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/12/botton_pro_federales.png" alt="Programas Federales" width="250" /></a></td><br>
+<br>
+</tr>
+</tr>
+<td><a title="Programas Federales" href="http://www.inmujeres.cdmx.gob.mx/armonizacion-contable-inmujeres-df"><img class="alignleft size-full wp-image-2370" src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/12/lgcg.png" alt="Programas Federales" width="250"/></a></td><br>
+</tr>
+</div>
+		</div></div></div><div class="panel-grid" id="pg-15-3" ><div class="panel-grid-cell" id="pgc-15-3-0" ><div class="so-panel widget widget_shortcodes-ultimate shortcodes-ultimate panel-first-child panel-last-child" id="panel-15-3-0-0" data-index="17"><div class="textwidget"><div id="su_carousel_57eb07b17e82f" class="su-carousel su-carousel-centered su-carousel-pages-no su-carousel-responsive-yes" style="width:100%" data-autoplay="3000" data-speed="300" data-mousewheel="true" data-items="6" data-scroll="3"><div class="su-carousel-slides"><div class="su-carousel-slide"><a href="http://www.contraloria.cdmx.gob.mx/docs/bases.pdf" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/06/corto_transparencia--18x60.png" alt="corto_transparencia" /></a></div><div class="su-carousel-slide"><a href="http://www.contraloria.cdmx.gob.mx/docs/ConvocatoriaPNCS2016v2.pdf" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/06/premio_contraloria_2016--18x60.png" alt="premio_contraloria_2016" /></a></div><div class="su-carousel-slide"><a href="http://copred.cdmx.gob.mx/marco-normativo/ley-para-prevenir-y-eliminar-la-discriminacion-en-el-d-f/" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/04/LPEDDF--18x60.jpg" alt="LPEDDF" /></a></div><div class="su-carousel-slide"><a href="http://copred.df.gob.mx" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/04/copred--18x60.gif" alt="copred" /></a></div><div class="su-carousel-slide"><a><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/05/anticorrupcion--18x60.jpg" alt="anticorrupcion" /></a></div><div class="su-carousel-slide"><a href="http://www.alertaamber.gob.mx/" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/06/alerta_amber--18x60.png" alt="alerta_amber" /></a></div><div class="su-carousel-slide"><a href="http://www.alertaamber.gob.mx/" target="_blank"><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/06/amber_2--18x60.png" alt="amber_2" /></a></div></div><div class="su-carousel-nav"><div class="su-carousel-direction"><span class="su-carousel-prev"></span><span class="su-carousel-next"></span></div><div class="su-carousel-pagination"></div></div></div></div></div></div></div></div>			</div>
+
+	</article>
+
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	
+	
+	
+
+		</div><!-- .inner-wrap -->
+	</div><!-- #main -->	
+			<footer id="colophon" class="clearfix">	
+			
+<div class="footer-widgets-wrapper">
+	<div class="inner-wrap">
+		<div class="footer-widgets-area clearfix">
+			<div class="tg-one-third">
+				<aside id="nav_menu-4" class="widget widget_nav_menu"><h3 class="widget-title"><span>Comunicación y Difusión</span></h3><div class="menu-comunicacion-difusion-container"><ul id="menu-comunicacion-difusion" class="menu"><li id="menu-item-3603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3603"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+<li id="menu-item-5711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5711"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/discursos/">Discursos</a></li>
+<li id="menu-item-5712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5712"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/campanas/">Campañas</a></li>
+<li id="menu-item-5710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5710"><a href="http://www.inmujeres.cdmx.gob.mx/sala-de-prensa/multimedia/">Multimedia</a></li>
+</ul></div></aside>			</div>
+			<div class="tg-one-third">
+				<aside id="nav_menu-5" class="widget widget_nav_menu"><h3 class="widget-title"><span>Secciones de Interés</span></h3><div class="menu-centro-de-documentacion-container"><ul id="menu-centro-de-documentacion" class="menu"><li id="menu-item-6258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6258"><a href="http://www.inmujeres.cdmx.gob.mx/cedoc/">Centro de Documentación</a></li>
+<li id="menu-item-6259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6259"><a href="http://www.inmujeres.cdmx.gob.mx/cedoc/catalogo-en-linea/">Catálogo en línea</a></li>
+<li id="menu-item-6260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6260"><a href="http://www.inmujeres.cdmx.gob.mx/cedoc/publicaciones-inmujeres-cdmx/">Publicaciones Inmujeres CDMX</a></li>
+<li id="menu-item-1009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1009"><a href="http://www.inmujeres.cdmx.gob.mx/cedoc/recursos-en-linea/">Recursos en Línea</a></li>
+</ul></div></aside>			</div>
+			<div class="tg-one-third tg-one-third-last">
+				<aside id="text-7" class="widget widget_text"><h3 class="widget-title"><span>Transparencia InmujeresDF</span></h3>			<div class="textwidget"><a href='http://www.infodf.org.mx/web/index.php' target='_blank' title='InfoDF'><img src=http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/05/info-df.jpg style='border:2px;' alt='Visita Info DF' height='48px' width='48px' /></a><a href='http://www.infomexdf.org.mx/InfomexDF/default.aspx' target='_blank' title='Sistema de Solicitudes de Información del Distrito Federal'><img src=http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/05/info-mex.jpg style='border:2px;' alt='Visita InfoMex' height='48px' width='48px' padding: 0px 0px 0px 2px;" /></a><a 
+href='http://www.transparencia.df.gob.mx/wb/vut/instituto_de_las_mujeres_inmujeres' target='_blank' title='Oficina de Información Pública'><img src=http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/05/transparencia.jpg style='border:2px;' alt='Oficina de Información Pública' height='48px' width='48px' padding: 0px 0px 0px 2px;" /></a><a 
+href='http://transparenciafocalizada.df.gob.mx' target='_blank' title='Transparencia 360º'><img src=http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/05/transparencia360.jpg style='border:2px;' alt='OTransparencia 360º' height='48px' width='48px' padding: 0px 0px 0px 2px;"/></a></div>
+		</aside><aside id="text-9" class="widget widget_text"><h3 class="widget-title"><span>Redes Sociales</span></h3>			<div class="textwidget"><div class="footer-widgets-area clearfix"><a title="Visit Us On Facebook" href="https://www.facebook.com/InmujeresCDMX" target="_blank"><img style="border: 0px; height: 48px; width: 48px;" src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/06/facebook.png" alt="Facebook/" /></a> <a title="Visit Us On Twitter" href="http://www.twitter.com/InmujeresCDMX" target="_blank"><img style="border: 0px; height: 48px; width: 48px;" src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/06/twitter.png" alt="Twitter" /></a> <a title="Visit Us On Youtube" href="https://www.youtube.com/c/InmujeresCDMX" target="_blank"><img style="border: 0px; height: 48px; width: 48px;" src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/06/youtube.png" alt="YouTube/" /></a> <a title="Visit Us On Pinterest" href="http://www.youtube.com/user/InmujeresDF" target="_blank"><img style="border: 0px; height: 48px; width: 48px; padding: 0px 0px 0px 1px;" src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2015/06/pinterest.png" alt="Pinterest/" /></a><a title="Visit Us On Pinterest" href="https://www.flickr.com/photos/inmujerescdmx/albums" target="_blank"><img style="border: 0px; height: 48px; width: 48px; padding: 0px 0px 0px 4px;" src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/03/FLIKR2.png" alt="Pinterest/" />
+</div>
+</div>
+</div></div>
+		</aside>			</div>
+		</div>
+	</div>
+</div>	
+			<div class="footer-socket-wrapper clearfix">
+				<div class="inner-wrap">
+					<div class="footer-socket-area">
+<div class="copyright-wrap">
+<p align="center" <a href="http://www.inmujeres.cdmx.gob.mx"></a><img src="http://www.inmujeres.cdmx.gob.mx/wp-content/uploads/2016/02/logogdffooter.png" border="0" width="40" height="49" style="padding-top: 20px"/></p>
+
+	  <p align="center" style="font-family: Verdana, Geneva, sans-serif;font-size: 11px;color: #666; text-transform:none;"><a href="http://inmujeres.df.gob.mx/index.jsp" rel="nofollow">Instituto de las Mujeres de la Ciudad de México</a><br />
+			   José María Izazaga No. 148, Colonia Centro. C.P. 06090, Delegación Cuauhtémoc. Ciudad de México.<br />
+			    <a http://inmujeres.df.gob.mx/index.jsp">www.inmujeres.cdmx.gob.mx</p>
+
+						<nav class="footer-menu" class="clearfix">
+							
+
+		    			</nav>
+					</div>
+				</div>
+			</div>			
+		</footer>
+		<a href="#masthead" id="scroll-up"><i class="fa fa-long-arrow-up"></i></a>	
+	</div><!-- #page -->
+	<script type="text/javascript">(function($){$(document).ready(function(){Galleria.loadTheme('http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/st-gallery-wp/themes/classic/galleria.classic.js');Galleria.loadTheme('http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/st-gallery-wp/themes/v2/theme.js');});})(jQuery);</script><link rel='stylesheet' id='smooth_default-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/smooth-slider/css/skins/default/style.css?ver=2.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='su-galleries-shortcodes-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/shortcodes-ultimate/assets/css/galleries-shortcodes.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='st-style-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/st-gallery-wp/css/style.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='st-style-classic-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/st-gallery-wp/themes/classic/galleria.classic.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='st-style-v2-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/st-gallery-wp/themes/v2/theme.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='st-skitter-style-css'  href='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/st-gallery-wp/css/skitter.styles.css?ver=4.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/so-widgets-bundle/widgets/so-post-carousel-widget/js/carousel.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/themes/InMujeresCDMX_2015/js/jquery.cycle.all.min.js?ver=2.9999.5'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/themes/InMujeresCDMX_2015/js/accelerate-slider-setting.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/themes/InMujeresCDMX_2015/js/navigation.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/smooth-slider/js/smooth.js?ver=2.6.5'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/smooth-slider/js/dim.js?ver=2.6.5'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/shortcodes-ultimate/assets/js/swiper.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/shortcodes-ultimate/assets/js/galleries-shortcodes.js?ver=4.9.7'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/st-gallery-wp/js/galleria-1.4.2.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/st-gallery-wp/js/script.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/st-gallery-wp/js/jquery.skitter.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://www.inmujeres.cdmx.gob.mx/wp-content/plugins/st-gallery-wp/js/jquery.easing.1.3.js?ver=4.5.3'></script>
+
+
+<!-- Shortcodes Ultimate custom CSS - begin -->
+<style type='text/css'>
+/*** Shortcodes Ultimate - box elements ***/
+
+/*		Common styles
+---------------------------------------------------------------*/
+
+.su-clearfix:before,
+.su-clearfix:after {
+	display: table;
+	content: " ";
+}
+.su-clearfix:after { clear: both; }
+
+/*		Tabs + Tab
+---------------------------------------------------------------*/
+
+.su-tabs {
+	margin: 0 0 1.5em 0;
+	padding: 3px;
+	-webkit-border-radius: 1px;
+	-moz-border-radius: 1px;
+	border-radius: 1px;
+	background: #fff;
+}
+.su-tabs-nav span {
+	display: inline-block;
+	margin-right: 3px;
+	padding: 10px 15px;
+	font-size: 16px;
+	min-height: 40px;
+	line-height: 20px;
+	-webkit-border-top-left-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	-moz-border-radius-topright: 3px;
+	border-top-right-radius: 3px;
+	color: #fff;
+	background: #08b1b3;
+	cursor: pointer;
+	-webkit-transition: all .2s;
+	-moz-transition: all .2s;
+	-o-transition: all .2s;
+	transition: all .2s;
+}
+.su-tabs-nav span:hover { background: #444444; }
+.su-tabs-nav span.su-tabs-current { background: #ba007c; cursor: default; }
+.su-tabs-nav span.su-tabs-disabled {
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+	cursor: default;
+}
+.su-tabs-pane {
+	padding: 15px;
+	font-size: 16px;
+	-webkit-border-bottom-right-radius: 3px;
+	-moz-border-radius-bottomright: 1px;
+	border-bottom-right-radius: 3px;
+	-webkit-border-bottom-left-radius: 1px;
+	-moz-border-radius-bottomleft: 1px;
+	border-bottom-left-radius: 3px;
+	background: #fff;
+	color: #444444;
+}
+.su-tabs-vertical:before,
+.su-tabs-vertical:after {
+	content: " ";
+	display: table;
+}
+.su-tabs-vertical:after { clear: both; }
+.su-tabs-vertical .su-tabs-nav {
+	float: left;
+	width: 30%;
+}
+.su-tabs-vertical .su-tabs-nav span {
+	display: block;
+	margin-right: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	-webkit-border-top-left-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	border-top-left-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	border-bottom-left-radius: 3px;
+}
+.su-tabs-vertical .su-tabs-panes {
+	float: left;
+	width: 70%;
+}
+.su-tabs-vertical .su-tabs-pane {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	-webkit-border-top-right-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	-moz-border-radius-topright: 3px;
+	-moz-border-radius-bottomright: 3px;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+.su-tabs-nav,
+.su-tabs-nav span,
+.su-tabs-panes,
+.su-tabs-pane {
+	-webkit-box-sizing: border-box !important;
+	-moz-box-sizing: border-box !important;
+	box-sizing: border-box !important;
+}
+/* Styles for screens that are less than 768px */
+@media only screen and (max-width: 768px) {
+	.su-tabs-nav span { display: block; }
+	.su-tabs-vertical .su-tabs-nav {
+		float: none;
+		width: auto;
+	}
+	.su-tabs-vertical .su-tabs-panes {
+		float: none;
+		width: auto;
+	}
+}
+
+/*		Spoiler + Accordion
+---------------------------------------------------------------*/
+
+.su-spoiler { margin-bottom: 1.5em; }
+.su-spoiler .su-spoiler:last-child { margin-bottom: 0; }
+.su-accordion { margin-bottom: 1.5em; }
+.su-accordion .su-spoiler { margin-bottom: 0.5em; }
+.su-spoiler-title {
+	position: relative;
+	cursor: pointer;
+	min-height: 20px;
+	line-height: 20px;
+	padding: 7px 7px 7px 34px;
+	font-weight: bold;
+	font-size: 16px;
+	color: #333333;
+}
+.su-spoiler-icon {
+	position: absolute;
+	left: 7px;
+	top: 7px;
+	display: block;
+	width: 20px;
+	height: 20px;
+	line-height: 21px;
+	text-align: center;
+	font-size: 14px;
+	font-family: FontAwesome;
+	font-weight: normal;
+	font-style: normal;
+	color: #ba007c;
+	-webkit-font-smoothing: antialiased;
+	*margin-right: .3em;
+}
+.su-spoiler-content {
+	padding: 14px;
+	-webkit-transition: padding-top .2s;
+	-moz-transition: padding-top .2s;
+	-o-transition: padding-top .2s;
+	transition: padding-top .2s;
+	-ie-transition: padding-top .2s;
+}
+.su-spoiler.su-spoiler-closed > .su-spoiler-content {
+	height: 0;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	border: none;
+	opacity: 0;
+}
+.su-spoiler-icon-plus .su-spoiler-icon:before { content: "\f068"; }
+.su-spoiler-icon-plus.su-spoiler-closed .su-spoiler-icon:before { content: "\f067"; }
+.su-spoiler-icon-plus-circle .su-spoiler-icon:before { content: "\f056"; }
+.su-spoiler-icon-plus-circle.su-spoiler-closed .su-spoiler-icon:before { content: "\f055"; }
+.su-spoiler-icon-plus-square-1 .su-spoiler-icon:before { content: "\f146"; }
+.su-spoiler-icon-plus-square-1.su-spoiler-closed .su-spoiler-icon:before { content: "\f0fe"; }
+.su-spoiler-icon-plus-square-2 .su-spoiler-icon:before { content: "\f117"; }
+.su-spoiler-icon-plus-square-2.su-spoiler-closed .su-spoiler-icon:before { content: "\f116"; }
+.su-spoiler-icon-arrow .su-spoiler-icon:before { content: "\f063"; }
+.su-spoiler-icon-arrow.su-spoiler-closed .su-spoiler-icon:before { content: "\f061"; }
+.su-spoiler-icon-arrow-circle-1 .su-spoiler-icon:before { content: "\f0ab"; }
+.su-spoiler-icon-arrow-circle-1.su-spoiler-closed .su-spoiler-icon:before { content: "\f0a9"; }
+.su-spoiler-icon-arrow-circle-2 .su-spoiler-icon:before { content: "\f01a"; }
+.su-spoiler-icon-arrow-circle-2.su-spoiler-closed .su-spoiler-icon:before { content: "\f18e"; }
+.su-spoiler-icon-chevron .su-spoiler-icon:before { content: "\f078"; }
+.su-spoiler-icon-chevron.su-spoiler-closed .su-spoiler-icon:before { content: "\f054"; }
+.su-spoiler-icon-chevron-circle .su-spoiler-icon:before { content: "\f13a"; }
+.su-spoiler-icon-chevron-circle.su-spoiler-closed .su-spoiler-icon:before { content: "\f138"; }
+.su-spoiler-icon-caret .su-spoiler-icon:before { content: "\f0d7"; }
+.su-spoiler-icon-caret.su-spoiler-closed .su-spoiler-icon:before { content: "\f0da"; }
+.su-spoiler-icon-caret-square .su-spoiler-icon:before { content: "\f150"; }
+.su-spoiler-icon-caret-square.su-spoiler-closed .su-spoiler-icon:before { content: "\f152"; }
+.su-spoiler-icon-folder-1 .su-spoiler-icon:before { content: "\f07c"; }
+.su-spoiler-icon-folder-1.su-spoiler-closed .su-spoiler-icon:before { content: "\f07b"; }
+.su-spoiler-icon-folder-2 .su-spoiler-icon:before { content: "\f115"; }
+.su-spoiler-icon-folder-2.su-spoiler-closed .su-spoiler-icon:before { content: "\f114"; }
+.su-spoiler-style-default { }
+.su-spoiler-style-default > .su-spoiler-title {
+	padding-left: 27px;
+	padding-right: 0;
+}
+.su-spoiler-style-default > .su-spoiler-title > .su-spoiler-icon { left: 0; }
+.su-spoiler-style-default > .su-spoiler-content { padding: 1em 0 1em 27px; }
+.su-spoiler-style-fancy {
+	border: 1px solid #ccc;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	background: #fff;
+	color: #333;
+}
+.su-spoiler-style-fancy > .su-spoiler-title {
+	border-bottom: 1px solid #ccc;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	background: #f0f0f0;
+	font-size: 0.9em;
+}
+.su-spoiler-style-fancy.su-spoiler-closed > .su-spoiler-title { border: none; }
+.su-spoiler-style-fancy > .su-spoiler-content {
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+.su-spoiler-style-simple {
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+.su-spoiler-style-simple > .su-spoiler-title {
+	padding: 5px 10px;
+	background: #f0f0f0;
+	color: #333;
+	font-size: 0.9em;
+}
+.su-spoiler-style-simple > .su-spoiler-title > .su-spoiler-icon { display: none; }
+.su-spoiler-style-simple > .su-spoiler-content {
+	padding: 1em 10px;
+	background: #fff;
+	color: #333;
+}
+
+/*		Quote
+---------------------------------------------------------------*/
+
+.su-quote-style-default {
+	position: relative;
+	margin-bottom: 1.5em;
+	padding: 0.5em 3em;
+	font-style: italic;
+}
+/*.su-quote-style-default.su-quote-has-cite { margin-bottom: 3em; }*/
+.su-quote-style-default:before,
+.su-quote-style-default:after {
+	position: absolute;
+	display: block;
+	width: 20px;
+	height: 20px;
+	background-image: url('../images/quote.png');
+	content: '';
+}
+.su-quote-style-default:before {
+	top: 0;
+	left: 0;
+	background-position: 0 0;
+}
+.su-quote-style-default:after {
+	right: 0;
+	bottom: 0;
+	background-position: -20px 0;
+}
+.su-quote-style-default .su-quote-cite {
+	display: block;
+	text-align: right;
+	font-style: normal;
+}
+.su-quote-style-default .su-quote-cite:before { content: "\2014\0000a0"; }
+.su-quote-style-default .su-quote-cite a { text-decoration: underline; }
+
+/*		Pullquote
+---------------------------------------------------------------*/
+
+.su-pullquote {
+	display: block;
+	width: 30%;
+	padding: 0.5em 1em;
+}
+.su-pullquote-align-left {
+	margin: 0.5em 1.5em 1em 0;
+	padding-left: 0;
+	float: left;
+	border-right: 5px solid #eee;
+}
+.su-pullquote-align-right {
+	margin: 0.5em 0 1em 1.5em;
+	padding-right: 0;
+	float: right;
+	border-left: 5px solid #eee;
+}
+
+/*		Row + Column
+---------------------------------------------------------------*/
+
+.su-row {
+	clear: both;
+	zoom: 1;
+	margin-bottom: 1.5em;
+}
+.su-row:before,
+.su-row:after {
+	display: table;
+	content: "";
+}
+.su-row:after { clear: both; }
+.su-column {
+	display: block;
+	margin: 0 4% 0 0;
+	float: left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.su-column-last { margin-right: 0; }
+.su-row .su-column { margin: 0 0 0 4%; }
+.su-row .su-column.su-column-size-1-1 { margin-left: 0; margin-right: 0; }
+.su-row .su-column:first-child { margin-left: 0; }
+.su-column-centered {
+	margin-right: auto !important;
+	margin-left: auto !important;
+	float: none !important;
+}
+.su-column img,
+.su-column iframe,
+.su-column object,
+.su-column embed { max-width: 100%; }
+@media only screen {
+	[class*="su-column"] + [class*="su-column"]:last-child { float: right; }
+}
+.su-column-size-1-1 { width: 100%; }
+.su-column-size-1-2 { width: 48%; }
+.su-column-size-1-3 { width: 30.66%; }
+.su-column-size-2-3 { width: 65.33%; }
+.su-column-size-1-4 { width: 22%; }
+.su-column-size-3-4 { width: 74%; }
+.su-column-size-1-5 { width: 16.8%; }
+.su-column-size-2-5 { width: 37.6%; }
+.su-column-size-3-5 { width: 58.4%; }
+.su-column-size-4-5 { width: 79.2%; }
+.su-column-size-1-6 { width: 13.33%; }
+.su-column-size-5-6 { width: 82.66%; }
+/* Styles for screens that are less than 768px */
+@media only screen and (max-width: 768px) {
+	.su-column {
+		width: 100% !important;
+		margin: 0 0 1.5em 0 !important;
+		float: none !important;
+	}
+	.su-row .su-column:last-child {
+		margin-bottom: 0 !important;
+	}
+}
+
+/*		Service
+---------------------------------------------------------------*/
+
+.su-service {
+	position: relative;
+	margin: 0 0 1.5em 0;
+}
+.su-service-title {
+	display: block;
+	margin-bottom: 0.5em;
+	color: #333;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+.su-service-title img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	border: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	box-shadow: none !important;
+}
+.su-service-title i {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block !important;
+	width: 1em;
+	height: 1em;
+	text-align: center;
+	line-height: 1em;
+}
+.su-service-content { line-height: 1.4; }
+
+/*		Box
+---------------------------------------------------------------*/
+
+.su-box {
+	margin: 0 0 1.5em 0;
+	border-width: 2px;
+	border-style: solid;
+}
+.su-box-title {
+	display: block;
+	padding: 0.5em 1em;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+.su-box-content {
+	background-color: #fff;
+	color: #444;
+	padding: 1em;
+}
+.su-box-style-soft .su-box-title {
+	background-image: url('../images/styles/style-soft.png');
+	background-position: 0 0;
+	background-repeat: repeat-x;
+}
+.su-box-style-glass .su-box-title {
+	background-image: url('../images/styles/style-glass.png');
+	background-position: 0 50%;
+	background-repeat: repeat-x;
+}
+.su-box-style-bubbles .su-box-title {
+	background-image: url('../images/styles/style-bubbles.png');
+	background-position: 0 50%;
+	background-repeat: repeat-x;
+}
+.su-box-style-noise .su-box-title {
+	background-image: url('../images/styles/style-noise.png');
+	background-position: 0 0;
+	background-repeat: repeat-x;
+}
+
+/*		Note
+---------------------------------------------------------------*/
+
+.su-note {
+	margin: 0 0 1.5em 0;
+	border-width: 1px;
+	border-style: solid;
+}
+.su-note-inner {
+	padding: 1em;
+	border-width: 1px;
+	border-style: solid;
+}
+
+/*		Expand
+---------------------------------------------------------------*/
+
+.su-expand { margin: 0 0 1.5em 0; }
+.su-expand-content { overflow: hidden; }
+.su-expand-link {
+	margin-top: 0.5em;
+	cursor: pointer;
+}
+.su-expand-link:hover {
+	opacity: 0.7;
+	filter: alpha(opacity=70);
+}
+.su-expand-link a,
+.su-expand-link a:hover,
+.su-expand-link a:active,
+.su-expand-link a:visited,
+.su-expand-link a:focus {
+	display: inline;
+	text-decoration: none;
+	background: transparent;
+	border: none;
+}
+.su-expand-link-style-default .su-expand-link a,
+.su-expand-link-style-default .su-expand-link a:hover { text-decoration: none; }
+.su-expand-link-style-underlined .su-expand-link span { text-decoration: underline; }
+.su-expand-link-style-dotted .su-expand-link span { border-bottom: 1px dotted #333; }
+.su-expand-link-style-dashed .su-expand-link span { border-bottom: 1px dashed #333; }
+.su-expand-link-style-button .su-expand-link a {
+	display: inline-block;
+	margin-top: 0.2em;
+	padding: 0.2em 0.4em;
+	border: 2px solid #333;
+}
+.su-expand-link-more { display: none; }
+.su-expand-link-less { display: block; }
+.su-expand-collapsed .su-expand-link-more { display: block; }
+.su-expand-collapsed .su-expand-link-less { display: none; }
+.su-expand-link i {
+	display: inline-block;
+	margin: 0 0.3em 0 0;
+	vertical-align: middle;
+	color: inherit;
+}
+.su-expand-link img {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	margin: 0 0.3em 0 0;
+	vertical-align: middle;
+}
+
+/*		Lightbox content
+---------------------------------------------------------------*/
+
+.su-lightbox-content {
+	position: relative;
+	margin: 0 auto;
+}
+.mfp-content .su-lightbox-content,
+#su-generator .su-lightbox-content { display: block !important; }
+.su-lightbox-content-preview {
+	width: 100%;
+	min-height: 300px;
+	background: #444;
+	overflow: hidden;
+}
+.su-lightbox-content h1,
+.su-lightbox-content h2,
+.su-lightbox-content h3,
+.su-lightbox-content h4,
+.su-lightbox-content h5,
+.su-lightbox-content h6 { color: inherit; }
+
+/*		Common margin resets for box elements
+---------------------------------------------------------------*/
+
+.su-column-inner > *:first-child,
+.su-accordion > *:first-child,
+.su-spoiler-content > *:first-child,
+.su-service-content > *:first-child,
+.su-box-content > *:first-child,
+.su-note-inner > *:first-child,
+.su-expand-content > *:first-child,
+.su-lightbox-content > *:first-child { margin-top: 0; }
+.su-column-inner > *:last-child,
+.su-tabs-pane > *:last-child,
+.su-accordion > *:last-child,
+.su-spoiler-content > *:last-child,
+.su-service-content > *:last-child,
+.su-box-content > *:last-child,
+.su-note-inner > *:last-child,
+.su-expand-content > *:last-child,
+.su-lightbox-content > *:last-child { margin-bottom: 0; }
+</style>
+<!-- Shortcodes Ultimate custom CSS - end -->
+
+</body>
+</html>
